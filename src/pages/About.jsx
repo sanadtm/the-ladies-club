@@ -1,5 +1,3 @@
 export default function About() {
-  return (
-    <div className="p-6 text-2xl">This is the About Page</div>
-  );
+  return <h2 className="text-2xl mb-6">Contact US</h2>;
 }
